@@ -1,2 +1,2 @@
 # Scripts
-My Deployment scripts
+My scripts
